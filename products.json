@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Essence Mascara Lash Princess",
+    "category": "beauty",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+  },
+  {
+    "id": 2,
+    "name": "Eyeshadow Palette with Mirror",
+    "category": "beauty",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+  },
+  {
+    "id": 3,
+    "name": "Powder Canister",
+    "category": "beauty",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
+  },
+  {
+    "id": 4,
+    "name": "Red Lipstick",
+    "category": "beauty",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp"
+  },
+  {
+    "id": 5,
+    "name": "Red Nail Polish",
+    "category": "beauty",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
+  },
+  {
+    "id": 6,
+    "name": "Calvin Klein CK One",
+    "category": "fragrances",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp"
+  },
+  {
+    "id": 7,
+    "name": "Chanel Coco Noir Eau De",
+    "category": "fragrances",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp"
+  },
+  {
+    "id": 8,
+    "name": "Dior J'adore",
+    "category": "fragrances",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp"
+  },
+  {
+    "id": 9,
+    "name": "Dolce Shine Eau de",
+    "category": "fragrances",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp"
+  },
+  {
+    "id": 10,
+    "name": "Gucci Bloom Eau de",
+    "category": "fragrances",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/1.webp"
+  },
+  {
+    "id": 11,
+    "name": "Annibale Colombo Bed",
+    "category": "furniture",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp"
+  },
+  {
+    "id": 12,
+    "name": "Annibale Colombo Sofa",
+    "category": "furniture",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp"
+  },
+  {
+    "id": 13,
+    "name": "Bedside Table African Cherry",
+    "category": "furniture",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp"
+  },
+  {
+    "id": 14,
+    "name": "Knoll Saarinen Executive Conference Chair",
+    "category": "furniture",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp"
+  },
+  {
+    "id": 15,
+    "name": "Wooden Bathroom Sink With Mirror",
+    "category": "furniture",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp"
+  },
+  {
+    "id": 16,
+    "name": "Apple",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
+  },
+  {
+    "id": 17,
+    "name": "Beef Steak",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp"
+  },
+  {
+    "id": 18,
+    "name": "Cat Food",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
+  },
+  {
+    "id": 19,
+    "name": "Chicken Meat",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp"
+  },
+  {
+    "id": 20,
+    "name": "Cooking Oil",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp"
+  },
+  {
+    "id": 21,
+    "name": "Cucumber",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/cucumber/1.webp"
+  },
+  {
+    "id": 22,
+    "name": "Dog Food",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp"
+  },
+  {
+    "id": 23,
+    "name": "Eggs",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp"
+  },
+  {
+    "id": 24,
+    "name": "Fish Steak",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp"
+  },
+  {
+    "id": 25,
+    "name": "Green Bell Pepper",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp"
+  },
+  {
+    "id": 26,
+    "name": "Green Chili Pepper",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp"
+  },
+  {
+    "id": 27,
+    "name": "Honey Jar",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp"
+  },
+  {
+    "id": 28,
+    "name": "Ice Cream",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp"
+  },
+  {
+    "id": 29,
+    "name": "Juice",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp"
+  },
+  {
+    "id": 30,
+    "name": "Kiwi",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
+  },
+  {
+    "id": 31,
+    "name": "Brown Leather Jacket",
+    "category": "mens-jackets",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-jackets/brown-leather-jacket/1.webp"
+  },
+  {
+    "id": 32,
+    "name": "Military Satin Bomber Jacket",
+    "category": "mens-jackets",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-jackets/military-satin-bomber-jacket/1.webp"
+  },
+  {
+    "id": 33,
+    "name": "Black Leather Jacket",
+    "category": "mens-jackets",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-jackets/black-leather-jacket/1.webp"
+  },
+  {
+    "id": 34,
+    "name": "Blue Denim Jacket",
+    "category": "mens-jackets",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-jackets/blue-denim-jacket/1.webp"
+  },
+  {
+    "id": 35,
+    "name": "Brown Casual Jacket",
+    "category": "mens-jackets",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-jackets/brown-casual-jacket/1.webp"
+  },
+  {
+    "id": 36,
+    "name": "Formal Sneaker Shoes",
+    "category": "mens-shoes",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shoes/formal-sneaker-shoes/1.webp"
+  },
+  {
+    "id": 37,
+    "name": "Sports Sneakers Off-White",
+    "category": "mens-shoes",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white/1.webp"
+  },
+  {
+    "id": 38,
+    "name": "Man Plaid Shirt",
+    "category": "mens-shirts",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp"
+  },
+  {
+    "id": 39,
+    "name": "Man Short Sleeve Shirt",
+    "category": "mens-shirts",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp"
+  },
+  {
+    "id": 40,
+    "name": "Formal Shirt for Men",
+    "category": "mens-shirts",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shirts/formal-shirt-for-men/1.webp"
+  },
+  {
+    "id": 41,
+    "name": "Gray Rounded Onesie",
+    "category": "mens-shirts",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shirts/gray-rounded-onesie/1.webp"
+  },
+  {
+    "id": 42,
+    "name": "Black Manga Shirt",
+    "category": "mens-shirts",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shirts/black-manga-shirt/1.webp"
+  },
+  {
+    "id": 43,
+    "name": "Rolex Oyster",
+    "category": "mens-watches",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-oyster/1.webp"
+  },
+  {
+    "id": 44,
+    "name": "Rolex Submariner",
+    "category": "mens-watches",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner/1.webp"
+  },
+  {
+    "id": 45,
+    "name": "Audemars Piguet",
+    "category": "mens-watches",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/audemars-piguet/1.webp"
+  },
+  {
+    "id": 46,
+    "name": "Rolex Cellini",
+    "category": "mens-watches",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini/1.webp"
+  },
+  {
+    "id": 47,
+    "name": "Omega Speedmaster",
+    "category": "mens-watches",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/omega-speedmaster/1.webp"
+  },
+  {
+    "id": 48,
+    "name": "Rolex Day-Date",
+    "category": "mens-watches",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-day-date/1.webp"
+  },
+  {
+    "id": 49,
+    "name": "Cartier Santos",
+    "category": "mens-watches",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/cartier-santos/1.webp"
+  },
+  {
+    "id": 50,
+    "name": "IWC Ingenieur",
+    "category": "mens-watches",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/iwc-ingenieur/1.webp"
+  }
+]

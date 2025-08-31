@@ -2,7 +2,8 @@
 
 This is the backend server for the Visual Product Matcher project, built for a technical assessment.
 
-**Live Frontend Application:** [](https://visual-matcher-frontend.vercel.app/)]
+**Live Frontend Application:** [Visual Product Matcher](https://visual-matcher-frontend.vercel.app/)
+
 
 ---
 ## Purpose
@@ -13,7 +14,7 @@ This is a lightweight Node.js and Express server with a single purpose: to serve
 
 The live product data can be accessed at the following URL:
 
-[](https://visual-matcher-backend-iedm.onrender.com)]/api/products
+[](https://visual-matcher-backend-iedm.onrender.com)/api/products
 
 ---
 ## Local Setup
